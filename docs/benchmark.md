@@ -115,7 +115,6 @@ const outputOptions = {
 }
 
 const bundle = await rollup(inputOptions)
-const { output } = await bundle.generate(outputOptions)
 await bundle.write(outputOptions)
 await bundle.close()
 ```
