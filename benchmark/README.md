@@ -1,6 +1,6 @@
 # Resultados dos testes
 
-> Para seleção de um resultado definitivo e justo, todos os bundlers executaram o teste 3 vezes e o melhor resultado foi selecionado (todos os resultados estão em segundos)
+> Para seleção de um resultado definitivo e justo, todos os bundlers executaram o mesmo teste 3 vezes e o melhor resultado foi selecionado (todos os resultados estão em segundos)
 
 ### esbuild
 
