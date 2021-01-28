@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "esbuild": "0.8.36",
+    "esbuild-svelte": "0.4.0"
+  }
+}
