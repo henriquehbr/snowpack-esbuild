@@ -65,7 +65,6 @@ chokidar.watch('./src/**/*').on('ready', chokidarEventHandler).on('change', chok
 
 ```javascript
 import esbuild from 'esbuild'
-import chokidar from 'chokidar'
 import { config } from '../config.js'
 
 await esbuild.build(config)
