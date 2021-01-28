@@ -13,3 +13,4 @@
 - Documentação oficial do Snowpack --> https://snowpack.dev
 - Documentação oficial do esbuild --> https://esbuild.github.io
 - Comunidade de esbuild no Reddit --> https://reddit.com/r/esbuild
+- Repositório do `svelte-notifications` --> https://github.com/beyonk-adventures/svelte-notifications
