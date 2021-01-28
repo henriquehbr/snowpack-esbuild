@@ -1,0 +1,11 @@
+{
+  "name": "esbuild-minimal",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Henrique Borges",
+  "license": "MIT",
+  "devDependencies": {
+    "chokidar": "^3.5.1",
+    "esbuild": "^0.8.36"
+  }
+}
